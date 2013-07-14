@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         {
             int i = 28;
             string fni = i.ToString();
+             fni = fni + " sina.com";
         }
     }
 }

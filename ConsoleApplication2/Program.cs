@@ -10,6 +10,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             int i = 28;
+            string fni = i.ToString();
         }
     }
 }

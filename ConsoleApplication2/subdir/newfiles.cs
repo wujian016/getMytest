@@ -7,5 +7,9 @@ namespace ConsoleApplication2
 {
     class newfiles
     {
+        private void Log()
+        {
+
+        }
     }
 }

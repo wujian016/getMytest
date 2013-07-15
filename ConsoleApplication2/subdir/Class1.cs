@@ -7,5 +7,8 @@ namespace ConsoleApplication2
 {
     class Class1
     {
+        string  test()
+        {
+        }
     }
 }

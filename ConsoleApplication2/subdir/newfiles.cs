@@ -7,5 +7,8 @@ namespace ConsoleApplication2
 {
     class newfiles
     {
+        public newfiles()
+        {
+        }
     }
 }

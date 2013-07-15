@@ -9,7 +9,7 @@ namespace ConsoleApplication2
     {
         private void Log()
         {
-string in = "end";
+            string www = "end";
         }
     }
 }

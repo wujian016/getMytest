@@ -5,11 +5,7 @@ using System.Text;
 
 namespace ConsoleApplication2
 {
-    class newfiles
+    class Class3
     {
-        private void Log()
-        {
-string in = "end";
-        }
     }
 }

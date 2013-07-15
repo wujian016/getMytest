@@ -18,5 +18,9 @@ namespace ConsoleApplication2
         {
             Name = name;
         }
+
+        public void InBranch()
+        {
+        }
     }
 }

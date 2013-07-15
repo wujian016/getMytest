@@ -41,6 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="branch\Class3.cs" />
     <Compile Include="subdir\Class1.cs" />
     <Compile Include="Class2.cs" />
     <Compile Include="subdir\newfiles.cs" />

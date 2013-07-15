@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         public Class2()
         {
             Name = "mane";
+            string s = "kdi";
         }
 
         public Class2(string name)

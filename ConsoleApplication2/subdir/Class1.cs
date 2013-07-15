@@ -9,6 +9,7 @@ namespace ConsoleApplication2
     {
         string  test()
         {
+            string rebase = "rebase";
         }
     }
 }

@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace ConsoleApplication2
+{
+    class newfiles
+    {
+<<<<<<< HEAD
+        public newfiles()
+        {
+=======
+        private void Log()
+        {
+
+>>>>>>> branch1
+        }
+    }
+}

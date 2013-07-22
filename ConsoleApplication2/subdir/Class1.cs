@@ -10,6 +10,7 @@ namespace ConsoleApplication2
         string  test()
         {
             string rebase = "rebase酸酸的方式";
+            return rebase;
         }
     }
 }

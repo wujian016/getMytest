@@ -17,6 +17,7 @@ namespace ConsoleApplication2
         public Class2(string name)
         {
             Name = name;
+            Name = "change in myTest";
         }
 
         public void InBranch()
